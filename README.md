@@ -1,5 +1,4 @@
-Technical Architecture
-
+Technical Architecture:
 
 This application is engineered following clean code principles and solid Object-Oriented Programming (OOP) paradigms:
 
@@ -9,7 +8,7 @@ Interfaces: Employs the Taxable interface to enforce strict contract-based tax c
 
 Data Integrity: Implements ArrayList for dynamic storage management, ensuring efficient data manipulation and retrieval.
 
-Core Feature
+Core Feature:
 
 Multi-Asset Support: Seamlessly categorize and manage distinct investment types with specific logic for each.
 
@@ -21,12 +20,14 @@ Extensible Design: Architecture allows for rapid integration of new asset classe
 
 
 
-Built With
+Built With:
+
 Language: Java
 Development Environment: Visual Studio Code
 Principles: OOP, Modular Design, SOLID principles.
 
-How to Run
+How to Run:
+
 Ensure Java Development Kit (JDK) is installed and configured in your PATH.
 Clone the repository: git clone [your-repo-link]
 Open in your IDE and execute Main.java.
