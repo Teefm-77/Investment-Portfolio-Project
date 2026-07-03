@@ -1,7 +1,7 @@
-Investment Portfolio System
+Investment Portfolio System:
 A robust, object-oriented console application designed to manage and track diverse investment portfolios, including Stocks, Crypto, and Cash.
 
-Key Technical Features
+Key Technical Features:
 OOP Architecture: Built using a hierarchical structure (Inheritance) and contract-based design (Interfaces).
 
 Automated Logic: Real-time evaluation of portfolio value and cumulative tax liabilities.
