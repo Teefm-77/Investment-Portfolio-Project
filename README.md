@@ -10,14 +10,16 @@ Scalable Design: Modular architecture allows for seamless integration of new ass
 
 Dynamic Management: Utilizes ArrayList for efficient data handling and retrieval.
 
-Technologies
+Technologies:
+
 Language: Java
 
 IDE: Visual Studio Code
 
 Principles: OOP, SOLID principles, Clean Code
 
-Setup
+Setup:
+
 Ensure JDK is installed.
 
 Clone this repository: git clone [your-repo-link]
