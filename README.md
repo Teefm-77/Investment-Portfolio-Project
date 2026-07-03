@@ -22,6 +22,6 @@ Setup:
 
 Ensure JDK is installed.
 
-Clone this repository: git clone [https://github.com/Teefm-77/Investment-Portfolio-Project.git]
+Clone this repository:[https://github.com/Teefm-77/Investment-Portfolio-Project.git]
 
 Open in your IDE and execute Main.java.
